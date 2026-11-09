@@ -40,7 +40,7 @@
         "gn:id":3578109
     },
     "wof:country":"MS",
-    "wof:geomhash":"9fafaefe484bc46c0a8077b9523fb0d6",
+    "wof:geomhash":"75b3375ce6410455a076b1af08295f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -62.16498000000001,
     16.70941
 ],
-  "geometry": {"coordinates":[-62.16498000000001,16.70941],"type":"Point"}
+  "geometry": {"coordinates":[-62.16498,16.70941],"type":"Point"}
 }
