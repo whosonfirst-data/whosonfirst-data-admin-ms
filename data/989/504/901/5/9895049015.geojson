@@ -1,0 +1,76 @@
+{
+  "id": 9895049015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.18364,16.79378,-62.18364,16.79378",
+    "geom:latitude":16.79378,
+    "geom:longitude":-62.18364,
+    "gn:population":600,
+    "iso:country":"MS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631331: name \"Lookout\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631331"
+        },
+        {
+            "citation":"GeoNames populated place 13631331: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631331"
+        },
+        {
+            "citation":"GeoNames populated place 13631331: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631331"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85674921 (Saint Peter), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632677,
+        85674921,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631331
+    },
+    "wof:country":"MS",
+    "wof:geomhash":"d6a843d0754af8b3964f52280c6a57e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632677,
+            "empire_id":136253055,
+            "locality_id":9895049015,
+            "region_id":85674921
+        }
+    ],
+    "wof:id":9895049015,
+    "wof:lastmodified":1795735262,
+    "wof:name":"Lookout",
+    "wof:parent_id":85674921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ms",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.18364,
+    16.79378,
+    -62.18364,
+    16.79378
+],
+  "geometry": {"coordinates":[-62.18364,16.79378],"type":"Point"}
+}
